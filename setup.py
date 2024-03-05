@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="uav-hud",
-    version="0.0.1",
+    version="0.0.2",
     author="Nurullah Eren Acar",
     author_email="n.erenacar13@gmail.com",
     description="A frame wrapper project that adds hud for UAVs.",
